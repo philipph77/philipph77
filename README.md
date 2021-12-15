@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipph77&label=Profile%20views&color=0e75b6&style=flat" alt="philipph77" /> </p>
 
-- 🔭 I’m currently pursuing my PhD at Porsche/EKU Tübingen [-](-)
+- 🔭 I’m currently pursuing my PhD at Porsche / EKU Tübingen
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
