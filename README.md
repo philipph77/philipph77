@@ -28,6 +28,8 @@
   
 
 <h3 align="center">Profile Stats:</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipph77&show_icons=true&locale=en&layout=compact" alt="philipph77" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philipph77&show_icons=true&locale=en&layout=compact" alt="philipph77" />
+</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=philipph77&show_icons=true&locale=en" alt="philipph77" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philipph77&" alt="philipph77" />
