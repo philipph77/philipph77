@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Philipp 👋</h1>
 <h3 align="center">I am a Machine Learning Researcher 👨🏻‍💻</h3>
-<p align="center">I’m currently pursuing my PhD at Porsche 🏎 & EKU Tübingen 🎓</p>
+<p align="center">I’m currently pursuing my PhD at Porsche 🏎 & University of Tübingen 🎓</p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=philipph77&label=Profile%20views&color=0e75b6&style=flat" alt="philipph77" /> </p> -->
 
 
